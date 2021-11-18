@@ -4,6 +4,7 @@ import com.codeborne.selenide.Condition;
 import com.codeborne.selenide.Configuration;
 import org.junit.Before;
 import org.junit.Test;
+
 import java.time.Duration;
 
 import static com.codeborne.selenide.Selectors.*;
@@ -13,7 +14,7 @@ import static com.codeborne.selenide.Selenide.*;
 public class MailRuTesting {
 
     @Before
-    public void  setup() {
+    public void setup() {
         //Configuration.browser = "firefox";
         //Configuration.browser = "opera";
         //Configuration.browser = "edge";
