@@ -16,7 +16,7 @@
     <orderEntry type="library" scope="TEST" name="Maven: org.apiguardian:apiguardian-api:1.1.2" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: junit:junit:4.13.2" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: org.hamcrest:hamcrest-core:1.3" level="project" />
-    <orderEntry type="library" name="Maven: com.codeborne:selenide:5.25.0" level="project" />
+    <orderEntry type="library" name="Maven: com.codeborne:selenide:5.25.1" level="project" />
     <orderEntry type="library" name="Maven: org.seleniumhq.selenium:selenium-java:3.141.59" level="project" />
     <orderEntry type="library" name="Maven: org.seleniumhq.selenium:selenium-api:3.141.59" level="project" />
     <orderEntry type="library" name="Maven: org.seleniumhq.selenium:selenium-chrome-driver:3.141.59" level="project" />
@@ -33,7 +33,7 @@
     <orderEntry type="library" name="Maven: com.google.code.gson:gson:2.8.8" level="project" />
     <orderEntry type="library" name="Maven: org.jsoup:jsoup:1.14.2" level="project" />
     <orderEntry type="library" name="Maven: org.brotli:dec:0.1.2" level="project" />
-    <orderEntry type="library" name="Maven: com.squareup.okhttp3:okhttp:3.12.13" level="project" />
+    <orderEntry type="library" name="Maven: com.squareup.okhttp3:okhttp:3.14.9" level="project" />
     <orderEntry type="library" scope="RUNTIME" name="Maven: commons-lang:commons-lang:2.6" level="project" />
     <orderEntry type="library" scope="RUNTIME" name="Maven: org.apache.commons:commons-compress:1.21" level="project" />
     <orderEntry type="library" scope="RUNTIME" name="Maven: org.apache.httpcomponents.client5:httpclient5:5.1" level="project" />
@@ -49,6 +49,6 @@
     <orderEntry type="library" scope="RUNTIME" name="Maven: org.apache.commons:commons-lang3:3.12.0" level="project" />
     <orderEntry type="library" scope="RUNTIME" name="Maven: commons-io:commons-io:2.11.0" level="project" />
     <orderEntry type="library" name="Maven: org.slf4j:slf4j-api:1.7.32" level="project" />
-    <orderEntry type="library" name="Maven: com.codeborne:selenide-core:6.0.3" level="project" />
+    <orderEntry type="library" name="Maven: com.codeborne:selenide-core:6.1.1" level="project" />
   </component>
 </module>

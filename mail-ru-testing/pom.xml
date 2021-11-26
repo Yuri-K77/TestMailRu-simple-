@@ -40,14 +40,14 @@
     <dependency>
       <groupId>com.codeborne</groupId>
       <artifactId>selenide</artifactId>
-      <version>5.25.0</version>
+      <version>5.25.1</version>
     </dependency>
 
     <!-- https://mvnrepository.com/artifact/com.codeborne/selenide-core -->
     <dependency>
       <groupId>com.codeborne</groupId>
       <artifactId>selenide-core</artifactId>
-      <version>6.0.3</version>
+      <version>6.1.1</version>
     </dependency>
 
   </dependencies>
