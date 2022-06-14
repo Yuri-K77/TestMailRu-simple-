@@ -18,7 +18,7 @@ public class MailRuTesting {
         //Configuration.browser = "firefox";
         //Configuration.browser = "opera";
         //Configuration.browser = "edge";
-        Configuration.timeout = 30000;
+        Configuration.timeout = 10000;
         Configuration.startMaximized = true;
     }
 
@@ -28,7 +28,7 @@ public class MailRuTesting {
         open("https://mail.ru/");
 
         //Переход на страницу почты
-        $x("//a[@class='ph-project svelte-1dxh3mc' and text()='Почта']").click();
+        $x("//div[@id='ph-whiteline']//a[2]").click();
 
         //Авторизация в почте
         $("input[name='username']").setValue("testing-mailbox");
